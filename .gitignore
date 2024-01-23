@@ -4,6 +4,7 @@ node_modules/
 # Archivos generados durante la ejecución
 *.log
 *.json
+!package.json
 *.sqlite
 
 # Entorno de desarrollo
